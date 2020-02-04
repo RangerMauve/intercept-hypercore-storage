@@ -1,0 +1,31 @@
+{
+  "name": "intercept-hypercore-storage",
+  "version": "1.0.0",
+  "description": "Intercept the data storage in a hypercore. Made for the datdot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/intercept-hypercore-storage.git"
+  },
+  "keywords": [
+    "dat",
+    "hypercore",
+    "proxy",
+    "intercept"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/intercept-hypercore-storage/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/intercept-hypercore-storage#readme",
+  "devDependencies": {
+    "hypercore": "^8.7.0",
+    "random-access-memory": "^3.1.1",
+    "tape": "^4.13.0",
+    "tmp": "^0.1.0"
+  }
+}
