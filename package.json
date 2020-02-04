@@ -1,6 +1,6 @@
 {
   "name": "intercept-hypercore-storage",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Intercept the data storage in a hypercore. Made for the datdot project",
   "main": "index.js",
   "scripts": {
